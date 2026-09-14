@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="158" viewBox="0 0 900 158" role="img" aria-labelledby="title desc">
+  <title id="title">acceptance-assistant</title><desc id="desc">验收助手，将目标分解、项目检查、历史纠正与修复复检组织成闭环。</desc>
+  <rect width="900" height="158" rx="12" fill="#f7f1e4"/>
+  <text x="30" y="35" fill="#a34f37" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" letter-spacing="1">AGENT / EVAL</text>
+  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">acceptance-assistant</text>
+  <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="23">目标分解、项目检查、历史纠正与修复复检。</text>
+  <path d="M658 30V128" stroke="#d9cfbb"/>
+  <text x="688" y="65" fill="#21443c" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="700">DEMO · REPORT</text>
+  <text x="688" y="94" fill="#21443c" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="700">BOUNDARY ↗</text>
+</svg>

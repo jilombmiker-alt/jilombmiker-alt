@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="184" viewBox="0 0 900 184" role="img" aria-labelledby="title desc">
+  <title id="title">How I ship</title><desc id="desc">从发现真实问题到构建、评测、发布的四步产品方法。</desc>
+  <rect width="900" height="184" rx="12" fill="#21443c"/>
+  <text x="30" y="45" fill="#f6efdf" font-family="Arial,'Noto Sans SC',sans-serif" font-size="26" font-weight="700">How I ship</text>
+  <path d="M30 68H870" stroke="#678078"/>
+  <path d="M238 84V154M450 84V154M662 84V154" stroke="#678078"/>
+  <text x="48" y="113" fill="#f6efdf" font-family="Menlo,Consolas,monospace" font-size="20" font-weight="700">FIND</text><text x="48" y="143" fill="#d7e5de" font-family="Arial,'Noto Sans SC',sans-serif" font-size="22">场景与证据</text>
+  <text x="266" y="113" fill="#f6efdf" font-family="Menlo,Consolas,monospace" font-size="20" font-weight="700">BUILD</text><text x="266" y="143" fill="#d7e5de" font-family="Arial,'Noto Sans SC',sans-serif" font-size="22">产品与交互</text>
+  <text x="478" y="113" fill="#f6efdf" font-family="Menlo,Consolas,monospace" font-size="20" font-weight="700">EVAL</text><text x="478" y="143" fill="#d7e5de" font-family="Arial,'Noto Sans SC',sans-serif" font-size="22">任务与坏案例</text>
+  <text x="690" y="113" fill="#f6efdf" font-family="Menlo,Consolas,monospace" font-size="20" font-weight="700">SHIP</text><text x="690" y="143" fill="#d7e5de" font-family="Arial,'Noto Sans SC',sans-serif" font-size="22">发布与复盘</text>
+</svg>
