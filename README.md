@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-signal-header.svg" width="100%" alt="Jilomb Miker，AI 产品独立开发者。公开作品覆盖产品验收、产品研究、桌面助手、表达训练、演示生成与儿童英语学习。" />
+  <img src="./assets/profile-signal-header.svg" width="100%" alt="Jilomb Miker，AI 产品独立开发者。公开作品覆盖产品验收、产品拆解、桌面助手、表达训练、演示生成与英语教培。" />
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 这是我的 AI 产品公开作品入口。我独立完成需求判断、交互设计、开发、评测和发布，并把可以公开验证的演示、源码、测试与边界留在 GitHub。
 
-你可以在这里直接体验网页产品、下载 macOS 应用、安装 Codex Skill，也可以查看两个可运行的学习产品原型。
+你可以在这里直接体验网页产品、下载 macOS 应用、安装 Codex Skill，也可以查看两个可运行的学习产品原型。下面先展示 6 个代表项目，后面列出其余 7 个公开项目。
 
 | 公开内容 | 对应项目 | 打开后能做什么 |
 | --- | --- | --- |
 | 可直接体验或下载 | 验收助手、Handy | 运行在线演示，或下载 macOS 测试版 |
-| 可安装到 Codex | Product Lens、SceneDeck | 复用产品拆解方法，或生成可编辑 PPTX |
-| 可在本地运行 | 表达训练器、星星 AI 英语伙伴 | 查看完整产品流程、源码、测试与当前边界 |
+| 可安装到 Codex | 产品拆解、SceneDeck | 复用产品拆解方法，或生成可编辑 PPTX |
+| 可在本地运行 | 表达训练器、英语教培 AI 产品 | 查看完整产品流程、源码、测试与当前边界 |
 
 ## 可以直接体验或下载
 
@@ -28,9 +28,9 @@
 
 **给独立开发者和小团队使用的网页产品检查与复检工具。** 提供检查目标和网页项目后，它会执行支持的页面路径，记录问题位置、触发操作、预期结果和实际差异；修复后可按原标准重新检查。
 
-[在线体验](https://modelscope.cn/studios/mlhx0808/acceptance-assistant) · [观看演示](https://jilombmiker-alt.github.io/acceptance-assistant/) · [查看源码与说明](https://github.com/jilombmiker-alt/acceptance-assistant)
+[在线体验](https://modelscope.cn/studios/mlhx0808/acceptance-assistant) · [查看源码与说明](https://github.com/jilombmiker-alt/acceptance-assistant)
 
-- **进入仓库可看** 在线演示、3 分 30 秒演示视频、脱敏报告、受控修复对比、源码和本地接入指南。
+- **进入仓库可看** 在线演示、脱敏报告、受控修复对比、源码和本地接入指南。
 - **当前边界** 在线版运行固定案例；自己的网页项目需要在本机接入，任意业务与主观质量仍需专门验收。
 - **仓库名** `acceptance-assistant`
 
@@ -50,9 +50,9 @@
 
 ## 可以安装到 Codex
 
-<a href="https://github.com/jilombmiker-alt/product-lens"><img src="./assets/project-product-lens.svg" width="100%" alt="Product Lens 产品透镜，把真实产品体验转成证据、方案和 PRD 的 Codex Skill。" /></a>
+<a href="https://github.com/jilombmiker-alt/product-lens"><img src="./assets/project-product-lens.svg" width="100%" alt="产品拆解，把真实产品体验转成证据、方案和 PRD 的 Codex Skill。" /></a>
 
-### [Product Lens · 产品透镜](https://github.com/jilombmiker-alt/product-lens)
+### [产品拆解](https://github.com/jilombmiker-alt/product-lens)
 
 **把真实产品体验转成证据、方案和 PRD 的 Codex Skill。** 它沿着用户实际操作记录事实与未知，再判断哪些机制值得借鉴，随后形成 Agent、工具、数据和工作流方案。
 
@@ -92,9 +92,9 @@
 
 <br />
 
-<a href="https://github.com/jilombmiker-alt/star-ai-english-buddy-h5"><img src="./assets/project-star-english.svg" width="100%" alt="星星 AI 英语伙伴，面向儿童的英语语音陪伴与学习关卡 H5 原型。" /></a>
+<a href="https://github.com/jilombmiker-alt/star-ai-english-buddy-h5"><img src="./assets/project-star-english.svg" width="100%" alt="英语教培 AI 产品，面向儿童的英语语音陪伴与学习关卡 H5 原型。" /></a>
 
-### [星星 AI 英语伙伴](https://github.com/jilombmiker-alt/star-ai-english-buddy-h5)
+### [英语教培 AI 产品](https://github.com/jilombmiker-alt/star-ai-english-buddy-h5)
 
 **面向儿童的英语语音陪伴与关卡学习 H5 原型。** 孩子可以进行中英文语音对话，完成朗读、单词、情景演绎和综合挑战；系统按真实任务结果解锁关卡并生成成长记录。
 
@@ -103,6 +103,20 @@
 - **进入仓库可看** 单页 H5 产品、学习任务与关卡逻辑、主备模型配置、语音交互、成长报告、测试和数据边界。
 - **当前边界** 当前为单机单档案，本地运行；尚未实现多儿童、云同步和完整 82 节点地图迁移。
 - **仓库名** `star-ai-english-buddy-h5`
+
+## 其他公开项目
+
+下面这些项目仍然公开，只是没有放进前面的 6 个代表项目中。
+
+| 项目 | 主要内容 | 当前形态 |
+| --- | --- | --- |
+| [Veriscribe Web](https://github.com/jilombmiker-alt/veriscribe-web) | 把语音或原始文字整理成准确、清楚、可直接使用的文本，支持改口理解与多语翻译 | 有公开网页测试版 |
+| [Mirror V0.3.1](https://github.com/jilombmiker-alt/mirror-v03) | 面向 18 至 24 岁邀请测试用户的关系体验研究原型，包含语音输入、场景生成与证据化报告 | 有在线体验与 Android 包 |
+| [星星 AI 英语伙伴线上版](https://github.com/jilombmiker-alt/star-ai-english-buddy) | 面向 6 至 12 岁儿童的语音优先英语学习网站，包含开放域对话、课程任务与七级地图 | 妙搭线上版本 |
+| [AI 产品经理工作流 Skills](https://github.com/jilombmiker-alt/work-skill) | 竞品证据研究与 PRD 决策审查两个可安装 Skill | 公开 Skill 源码 |
+| [中文写作 Skill](https://github.com/jilombmiker-alt/human-writing-skill) | 中文写作与改稿 Skill 的公开源码 | 当前缺少仓库 README |
+| [无相山海：邪潮](https://github.com/jilombmiker-alt/wuxiang-shanhai) | 东方神怪题材的离线 2D 像素肉鸽 RPG，公开最新源码快照与 Web 构建 | 开发候选版本 |
+| [末日方舟](https://github.com/jilombmiker-alt/doomsday-ark-design) | 独立物资、AI 幸存者、交易关系与剧情选择构成的末日回合生存游戏设计 | 仅公开设计文档 |
 
 <p align="center">
   <img src="./assets/product-method.svg" width="100%" alt="我的产品方法：发现真实问题，构建可用产品，验证任务与边界，发布公开证据。" />

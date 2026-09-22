@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="158" viewBox="0 0 900 158" role="img" aria-labelledby="title desc">
-  <title id="title">Product Lens 产品透镜</title><desc id="desc">把真实产品体验转成证据、方案和 PRD 的 Codex Skill。</desc>
+  <title id="title">产品拆解</title><desc id="desc">把真实产品体验转成证据、方案和 PRD 的 Codex Skill。</desc>
   <rect width="900" height="158" rx="12" fill="#efe4cb"/>
   <text x="30" y="35" fill="#a34f37" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" letter-spacing="1">RESEARCH / PRD</text>
-  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">Product Lens · 产品透镜</text>
+  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">产品拆解</text>
   <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="21">把真实产品体验转成证据、方案和 PRD。</text>
   <path d="M658 30V128" stroke="#cfc3ab"/>
   <text x="688" y="65" fill="#21443c" font-family="Arial,'Noto Sans SC',sans-serif" font-size="16" font-weight="700">Codex Skill</text>

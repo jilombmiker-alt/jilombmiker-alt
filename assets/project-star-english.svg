@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="158" viewBox="0 0 900 158" role="img" aria-labelledby="title desc">
-  <title id="title">星星 AI 英语伙伴</title><desc id="desc">面向儿童的英语语音陪伴、学习任务、关卡与成长记录 H5 原型。</desc>
+  <title id="title">英语教培 AI 产品</title><desc id="desc">面向儿童的英语语音陪伴、学习任务、关卡与成长记录 H5 原型。</desc>
   <rect width="900" height="158" rx="12" fill="#efe4cb"/>
   <text x="30" y="35" fill="#a34f37" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" letter-spacing="1">EDTECH / H5</text>
-  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">星星 AI 英语伙伴</text>
+  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">英语教培 AI 产品</text>
   <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="21">儿童语音对话、学习任务、关卡与成长记录。</text>
   <path d="M658 30V128" stroke="#cfc3ab"/>
   <text x="688" y="65" fill="#21443c" font-family="Arial,'Noto Sans SC',sans-serif" font-size="16" font-weight="700">本地 H5</text>
