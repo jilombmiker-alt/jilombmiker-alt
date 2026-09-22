@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="158" viewBox="0 0 900 158" role="img" aria-labelledby="title desc">
-  <title id="title">scenedeck-ppt</title><desc id="desc">从资料和任务书生成可验证、可编辑的演示文稿。</desc>
+  <title id="title">SceneDeck 演示生成 Skill</title><desc id="desc">把想法、笔记或资料变成面向特定受众的可编辑 PowerPoint。</desc>
   <rect width="900" height="158" rx="12" fill="#f7f1e4"/>
   <text x="30" y="35" fill="#a34f37" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" letter-spacing="1">PRESENTATION / SKILL</text>
-  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">scenedeck-ppt</text>
-  <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="23">从资料和任务书生成可验证、可编辑的演示文稿。</text>
+  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">SceneDeck · 演示生成 Skill</text>
+  <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="21">把资料变成面向特定受众的可编辑 PPTX。</text>
   <path d="M658 30V128" stroke="#d9cfbb"/>
-  <text x="688" y="65" fill="#21443c" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="700">1.0.0</text>
-  <text x="688" y="94" fill="#21443c" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="700">EDITABLE PPTX ↗</text>
+  <text x="688" y="65" fill="#21443c" font-family="Arial,'Noto Sans SC',sans-serif" font-size="16" font-weight="700">1.0.0</text>
+  <text x="688" y="94" fill="#21443c" font-family="Arial,'Noto Sans SC',sans-serif" font-size="16" font-weight="700">安装使用 ↗</text>
 </svg>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="158" viewBox="0 0 900 158" role="img" aria-labelledby="title desc">
-  <title id="title">expression-trainer</title><desc id="desc">中文阅读转述、语音证据、双轮训练与 BYOK。</desc>
+  <title id="title">表达训练器</title><desc id="desc">用两轮阅读转述、语音证据和反馈训练中文表达。</desc>
   <rect width="900" height="158" rx="12" fill="#f7f1e4"/>
   <text x="30" y="35" fill="#a34f37" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" letter-spacing="1">VOICE / LEARNING</text>
-  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">expression-trainer</text>
-  <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="23">阅读转述、语音证据、双轮训练与 BYOK。</text>
+  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">表达训练器</text>
+  <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="21">两轮阅读转述和语音证据训练中文表达。</text>
   <path d="M658 30V128" stroke="#d9cfbb"/>
-  <text x="688" y="65" fill="#21443c" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="700">WEB · ANDROID</text>
-  <text x="688" y="94" fill="#21443c" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="700">134 TESTS ↗</text>
+  <text x="688" y="65" fill="#21443c" font-family="Arial,'Noto Sans SC',sans-serif" font-size="16" font-weight="700">Web · Android</text>
+  <text x="688" y="94" fill="#21443c" font-family="Arial,'Noto Sans SC',sans-serif" font-size="16" font-weight="700">134 项测试 ↗</text>
 </svg>

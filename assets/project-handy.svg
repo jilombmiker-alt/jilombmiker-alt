@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="158" viewBox="0 0 900 158" role="img" aria-labelledby="title desc">
-  <title id="title">Handy</title><desc id="desc">本地优先的 macOS 快捷工具、记录与 AI 指令入口。</desc>
+  <title id="title">Handy macOS 语音行动助手</title><desc id="desc">用快捷键完成记录、笔记、待办、计时和语音指令。</desc>
   <rect width="900" height="158" rx="12" fill="#efe4cb"/>
   <text x="30" y="35" fill="#a34f37" font-family="Menlo,Consolas,monospace" font-size="15" font-weight="700" letter-spacing="1">MACOS / UTILITY</text>
-  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">Handy</text>
-  <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="23">本地优先的快捷工具、记录与 AI 指令入口。</text>
+  <text x="30" y="78" fill="#20221f" font-family="Arial,'Noto Sans SC',sans-serif" font-size="30" font-weight="700">Handy · macOS 语音行动助手</text>
+  <text x="30" y="119" fill="#5d605a" font-family="Arial,'Noto Sans SC',sans-serif" font-size="21">快捷记录、笔记、待办、计时与语音指令。</text>
   <path d="M658 30V128" stroke="#cfc3ab"/>
-  <text x="688" y="65" fill="#21443c" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="700">0.1.0</text>
-  <text x="688" y="94" fill="#21443c" font-family="Menlo,Consolas,monospace" font-size="16" font-weight="700">301 TESTS ↗</text>
+  <text x="688" y="65" fill="#21443c" font-family="Arial,'Noto Sans SC',sans-serif" font-size="16" font-weight="700">0.1.0 测试版</text>
+  <text x="688" y="94" fill="#21443c" font-family="Arial,'Noto Sans SC',sans-serif" font-size="16" font-weight="700">下载应用 ↗</text>
 </svg>
